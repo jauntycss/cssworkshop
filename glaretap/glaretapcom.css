@@ -1088,9 +1088,7 @@ pre {
     -ms-flex-pack: center;
     justify-content: center;
 }
-.webflowthirstFunction {
-    display: none !important;
-}
+
 .commonPadding {
     padding: 40px 0;
     -webkit-box-flex: 1;
