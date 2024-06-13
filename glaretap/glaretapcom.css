@@ -1088,7 +1088,9 @@ pre {
     -ms-flex-pack: center;
     justify-content: center;
 }
-
+.webflowthirstFunction {
+    display: none !important;
+}
 .commonPadding {
     padding: 40px 0;
     -webkit-box-flex: 1;
@@ -1260,7 +1262,7 @@ pre {
 
 .scrollDesignBtn:hover, .scrollDesignBtn.active {
     color: #492e1c;
-    background-image: url(../images/scrollBtn.svg);
+    background-image: url(https://jauntycss.github.io/glaretap/scrollBtn.svg);
 }
 
 .section5__row, .nftPage__row {
@@ -1418,7 +1420,7 @@ pre {
     line-height: 25px;
     width: 264px;
     height: 86px;
-    background: url(../images/sec51titlrFrame.png);
+    background: url(https://jauntycss.github.io/glaretap/sec51titlrFrame.png);
     background-repeat: no-repeat;
     background-size: 100%;
     margin: 0 auto;
@@ -1556,7 +1558,7 @@ pre {
 }
 /* .section6__titleHolder::before {
     content: '';
-    background-image: url(../images/pzeTopdeco.png);
+    background-image: url(https://jauntycss.github.io/glaretap/pzeTopdeco.png);
     width: 100%;
     height: 32px;
     display: block;
@@ -1567,7 +1569,7 @@ pre {
 
 .section6__titleHolder::after {
     content: '';
-    background-image: url(../images/Evolution.png);
+    background-image: url(https://jauntycss.github.io/glaretap/Evolution.png);
     width: 100%;
     height: 25px;
     display: block;
@@ -1643,7 +1645,7 @@ pre {
     height: 40px;
     overflow: hidden;
     text-indent: 100px;
-    background-image: url(../images/partnerArrow.png);
+    background-image: url(https://jauntycss.github.io/glaretap/partnerArrow.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 40px;
@@ -1658,7 +1660,7 @@ pre {
 }
 
 .ourpartnerSlider .slick-prev {
-    background-image: url(../images/partnerArrowLeft.png);
+    background-image: url(https://jauntycss.github.io/glaretap/partnerArrowLeft.png);
     left: -20px;
 }
 
@@ -2489,7 +2491,7 @@ ul.footermain__contact li a:hover {
     position: absolute;
     bottom: -4px;
     left: 15px;
-    background-image: url(../images/shiningCircle.png);
+    background-image: url(https://jauntycss.github.io/glaretap/shiningCircle.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: left center;
@@ -2607,7 +2609,7 @@ ul.footermain__contact li a:hover {
 .contactOutrCntanr {
     width: 100%;
     margin: 0 auto;
-    background-image: url(../images/contact.png);
+    background-image: url(https://jauntycss.github.io/glaretap/contact.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
@@ -2869,7 +2871,7 @@ h1.commonHeading__title img {
     transition: .25s all ease;
     font-size: 12px;
     height: 8px;
-    background-image: url(../images/drop_ai.svg);
+    background-image: url(https://jauntycss.github.io/glaretap/drop_ai.svg);
     background-repeat: no-repeat;
 }
 
@@ -3367,7 +3369,7 @@ h1.commonHeading__title img {
 }
 .heading-sub h2::after{
     content: '';
-    background-image: url(../images/gameplay-line.png);
+    background-image: url(https://jauntycss.github.io/glaretap/gameplay-line.png);
     width: 100%;
     height: 13px;    
     display: block;
@@ -3377,7 +3379,7 @@ h1.commonHeading__title img {
 }
 .heading-sub.nfts_text h2::after{
 
-    background-image: url(../images/line_glow.png);
+    background-image: url(https://jauntycss.github.io/glaretap/line_glow.png);
     height: 38px;
     width: 77%;
     margin: auto;
@@ -3386,7 +3388,7 @@ h1.commonHeading__title img {
 
 }
 .inner_gamePlay {
-    background-image: url(../images/bg-game-lay.png);
+    background-image: url(https://jauntycss.github.io/glaretap/bg-game-lay.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -3398,7 +3400,7 @@ h1.commonHeading__title img {
 
 }
 .ourpartnerSliderholder{
-    background-image: url(../images/partners.png);
+    background-image: url(https://jauntycss.github.io/glaretap/partners.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -3424,7 +3426,7 @@ h1.commonHeading__title img {
     margin: auto;
     right: 0;
     left: 0;
-    background-image: url(../images/image-frame.png);
+    background-image: url(https://jauntycss.github.io/glaretap/image-frame.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -3572,7 +3574,7 @@ swiper-container {
 .section6__cntnt.gs_reveal::before,
 .joinusnowBox__contentRight::before  {
     content: '';
-    background-image: url(../images/vertical-line.png);
+    background-image: url(https://jauntycss.github.io/glaretap/vertical-line.png);
     width: 13%;
     height: 100%;
     display: block;
@@ -3586,7 +3588,7 @@ swiper-container {
 
 }
 .joinusnowBox__contentRight::before {
-    background-image: url(../images/contact_us_line.png);
+    background-image: url(https://jauntycss.github.io/glaretap/contact_us_line.png);
 
 }
 
@@ -3765,7 +3767,7 @@ box-shadow: rgba(0, 0, 0, 0.4) 2.4px 2.4px 3.2px;
 } */
 .roadmapGrid__headCntnt span::before{  
   content:'';
-  background-image: url(../images/drop.svg);
+  background-image: url(https://jauntycss.github.io/glaretap/drop.svg);
   width: 117px;
   height: 145px;
   background-repeat: no-repeat;
@@ -3781,16 +3783,16 @@ box-shadow: rgba(0, 0, 0, 0.4) 2.4px 2.4px 3.2px;
 }
 .roadmapGrid__box4 .roadmapGrid__headCntnt span:hover::before{
     content:'';
-    background-image: url(../images/whitedrop.svg);
+    background-image: url(https://jauntycss.github.io/glaretap/whitedrop.svg);
 
 
 }
 .roadmapGrid__box5  .roadmapGrid__headCntnt span:hover::before{
     content:'';
-    background-image: url(../images/whitedropdown.svg);
+    background-image: url(https://jauntycss.github.io/glaretap/whitedropdown.svg);
 }
 .roadmapGrid__box4  .roadmapGrid__headCntnt span::before{
-    background-image: url(../images/dropupper.svg);
+    background-image: url(https://jauntycss.github.io/glaretap/dropupper.svg);
     top: unset;
 
 
@@ -3865,7 +3867,7 @@ box-shadow: rgba(0, 0, 0, 0.4) 2.4px 2.4px 3.2px;
     padding-left: 27px;
 }
 .team_wrapper{
-    background-image: url(../images/team_bg.png);
+    background-image: url(https://jauntycss.github.io/glaretap/team_bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -3893,7 +3895,7 @@ ul.teams li{
 
 }
 .teamBox .info_content{
-    background-image: url(../images/f1-1.png);
+    background-image: url(https://jauntycss.github.io/glaretap/f1-1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -3906,12 +3908,12 @@ ul.teams li{
 }
 
 .box-three .info_content{
-    background-image: url(../images/f3-3.png);
+    background-image: url(https://jauntycss.github.io/glaretap/f3-3.png);
 
 
 }
 .box-two .info_content{
-    background-image: url(../images/f2-2.png);
+    background-image: url(https://jauntycss.github.io/glaretap/f2-2.png);
 }
 
 .teamBox .info_content:hover{
@@ -3927,7 +3929,7 @@ ul.teams li{
     right: 0;
     opacity: 0;
     padding: 26px 21px;
-    background-image: url(../images/frame_overlay.png);
+    background-image: url(https://jauntycss.github.io/glaretap/frame_overlay.png);
     background-repeat: no-repeat;
     background-size: contain;
     transform: scale(0);
@@ -4088,10 +4090,10 @@ h3.evolutionHolder__smalltitle img {
     padding: 15px 70px;
 }
 .frame_evolution {
-    background-image: url(../images/frame-o-ev.png);
+    background-image: url(https://jauntycss.github.io/glaretap/frame-o-ev.png);
 }
 .stable_utility_token {
-    background-image: url(../images/frame-evolution.png);
+    background-image: url(https://jauntycss.github.io/glaretap/frame-evolution.png);
     padding: 22px 53px;
     background-size: contain;
     background-size: 93% 100%;
@@ -4116,18 +4118,18 @@ h3.evolutionHolder__smalltitle img {
 }
 
 .frame_evolution {
-    background-image: url(../images/frame-o-ev.png);
+    background-image: url(https://jauntycss.github.io/glaretap/frame-o-ev.png);
     background-size: 100% 100%;
     padding: 41px 0px 0px 0;
     background-repeat: no-repeat;
 
 }
 .frame_evolution.property{
-    background-image: url(../images/evolution2.png);
+    background-image: url(https://jauntycss.github.io/glaretap/evolution2.png);
 
 }
     .data_content.dreams {
-        background-image: url(../images/frame-evol.png);
+        background-image: url(https://jauntycss.github.io/glaretap/frame-evol.png);
         background-repeat: no-repeat;
         background-size: 95% 100%;
         background-position: center;
@@ -4706,10 +4708,10 @@ img.data_line_ones1 {
 }
 .navbarMain .pink_button{
 
-    background-image: url(../images/pink_button.png);
+    background-image: url(https://jauntycss.github.io/glaretap/pink_button.png);
 }
 .contactOutrCntanr.contact_details_1 {
-    background-image: url(../images/carriers-details.png);
+    background-image: url(https://jauntycss.github.io/glaretap/carriers-details.png);
 
 }
 @-webkit-keyframes animParticle {
@@ -4972,14 +4974,14 @@ margin-right: 16px!important;
 .availableNow-head .heading-frame,
 .binanceSmart-head .heading-frame
  {
-    background-image: url(../images/availableNow-frame.png);
+    background-image: url(https://jauntycss.github.io/glaretap/availableNow-frame.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 80px;
 }
 .binanceSmart-head .heading-frame {
-    background-image: url(../images/binance-frame.png);
+    background-image: url(https://jauntycss.github.io/glaretap/binance-frame.png);
     height: 95px;
 }
 .binanceSmart-head {
@@ -5032,7 +5034,7 @@ margin-right: 16px!important;
 }
 .contractAddress-btn h5::after {
     content: '';
-    background-image: url(../images/tokenAddress-line.png);
+    background-image: url(https://jauntycss.github.io/glaretap/tokenAddress-line.png);
     width: 100%;
     height: 18px;
     display: block;
