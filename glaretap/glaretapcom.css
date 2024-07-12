@@ -3340,7 +3340,7 @@ h1.commonHeading__title img {
 }
 
 .heading-sub h2{
-    font-size: 52px;
+    font-size: 32px;
     text-transform: uppercase;
     color: var(--white);
     font-family: var(--boldfont);
