@@ -782,7 +782,30 @@ pre {
     bottom: 2vw;
     right: 2vw;
 }
-
+.reddGlareTapBtn {
+	    width: 200px;
+    height: 53px;
+    border: 0;
+    background: transparent;
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_e7aqlKhvy7DuZJGRJcjDmPFJQ5DG7c5pTtKSj-s459x4auBsYNFwFeQZMDUvYOnN8ey2pRBxNq717kmbpM5NKfGqPPtf4bRMhOzkBJFSn6huQR8whoIK8RAGAWMmIFeS-8az0-En-DsImwlv55dcO5qH1GBNOTxsB1a8rb5mcpWsH9RZ0OX42Iu3Ft56/s1600/bgpresalen.png);
+    text-transform: uppercase;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    font-weight: 700;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    letter-spacing: 0.02em;
+}
 
 .greenBtn {
     width: 200px;
